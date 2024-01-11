@@ -1,0 +1,9 @@
+To run the code follow the commands
+--------------------------------------------------------------------------------------------------
+1)open the code1.py file
+2)click on run 
+3)click on load module
+4)after clicking on load module click on upload image and select an image
+5)after selecting image click on image pre-processing
+6)after clicking on image pre-processing click on predict 
+ 
