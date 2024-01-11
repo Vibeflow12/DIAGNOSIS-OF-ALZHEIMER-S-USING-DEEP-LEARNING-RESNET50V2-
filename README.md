@@ -10,7 +10,6 @@ Problem statement : Alzheimer's disease is the leading cause of dementia in adul
 
 ```bash
   git clone https://github.com/Vibeflow12/DIAGNOSIS-OF-ALZHEIMER-S-USING-DEEP-LEARNING-RESNET50V2-.git
-  cd code
   pip install -r requirements.txt
 ```
     Note : pickle file is used to show history of the model(ResNet50V2)
